@@ -13,7 +13,7 @@ public class Calculator {
      * @return hasil
      */
     public int add(int a, int b) {
-        return a + b + 0;
+        return a + b + 1;
     }
 
     /**
